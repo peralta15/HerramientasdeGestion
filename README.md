@@ -1,1 +1,2 @@
 # HerramientasdeGestion
+Este trabajo presenta el desarrollo e implementación de un sistema web denominado HTAS diseñado para optimizar el monitoreo de pacientes con hipertensión arterial en entornos clínicos. El sistema fue desarrollado utilizando una arquitectura cliente-servidor con Angular en el frontend, Node.js en el backend y PostgreSQL como gestor de base de datos, implementando autenticación mediante JSON Web Tokens (JWT) para garantizar la seguridad de la información médica.
